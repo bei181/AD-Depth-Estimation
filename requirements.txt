@@ -1,0 +1,9 @@
+imutils
+plotly
+mpl_toolkits
+matplotlib
+numpy
+opencv-contrib-python
+plyfile
+scipy
+vtk
