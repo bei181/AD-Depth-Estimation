@@ -193,7 +193,7 @@ def get_objpoints_and_imgpoints(matches, struct_indices, structure, key_points):
 #bundle adjustment
 ########################
 
-# 这部分中，函数get_3dpos是原方法中对某些点的调整，而get_3dpos2是根据笔者的需求进行的修正，即将原本需要修正的点全部删除。
+# 这部分中，函数get_3dpos是原方法中对某些点的调整
 # bundle adjustment请参见https://www.cnblogs.com/zealousness/archive/2018/12/21/10156733.html
 
 def get_3dpos(pos, ob, r, t, K):
