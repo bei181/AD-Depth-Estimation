@@ -109,6 +109,10 @@ def scale_caculate(depth_dir, time_align_txt, img_dir, pcd_dir, out_dir, scale_t
         os.remove(scale_txt)
     if not os.path.exists(out_dir):
         os.mkdir(out_dir)
+    if not os.path.exists(os.path.join(out_dir, "recovery")):
+        os.mkdir(os.path.join(out_dir, "recovery"))
+    if not os.path.exists(os.path.join(out_dir, "scale_recovery")):
+        os.mkdir(os.path.join(out_dir, "scale_recovery"))
     with open(time_align_txt,'r') as f_read:
         align_paths = f_read.readlines()
 
