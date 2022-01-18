@@ -8,6 +8,8 @@
 
 3. 处理动态物体的自监督学习方法: depth and motion learning 和 struct2depth
 
+4. depth_estimate_application：是深度估计应用的一些代码，包括尺度恢复，伪点云生成，以及真实尺度下RGBD可视化
+
 
 ## 数据集
 
