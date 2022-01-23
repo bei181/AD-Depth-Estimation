@@ -23,7 +23,7 @@
 
 4. cityscapes数据集官网下载链接: https://www.cityscapes-dataset.com/
 
-5. 私有数据集存放在百度网盘: https://pan.baidu.com/s/1MguCs7r-l5Jbzm2gOhctUw 提取码: 735r 
+5. 私有数据集存放在百度网盘链接：https://pan.baidu.com/s/1I3ysfFMJKLo7HTeA16ALrg    提取码：vszd 
 
 
 
