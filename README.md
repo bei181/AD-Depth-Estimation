@@ -23,8 +23,8 @@
 
 4. cityscapes数据集官网下载链接: https://www.cityscapes-dataset.com/
 
-5. 私有数据集存放在百度网盘链接：https://pan.baidu.com/s/1W6_UtvrIvqGcBmJjeV5wRg 
-提取码：c3as 
+5. 私有数据集存放在百度网盘链接
+链接: https://pan.baidu.com/s/1OFeCMCj8d2vAtNelgeGdGQ 提取码: 1nwa 
 
 ## 预训练模型
 
