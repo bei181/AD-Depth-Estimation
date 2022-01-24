@@ -25,7 +25,7 @@
 
 5. 私有数据集存放在百度网盘链接
 链接: https://pan.baidu.com/s/1OFeCMCj8d2vAtNelgeGdGQ 提取码: 1nwa 
-（文件较大，分为分割为多个包）
+（文件较大，split命令行分割成多个包）
 
 ## 预训练模型
 
